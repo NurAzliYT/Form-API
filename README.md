@@ -16,6 +16,6 @@ If you use [Poggit](https://poggit.pmmp.io) to build your plugin, you can add it
 projects:
   YourPlugin:
     libs:
-      - src: jojoe77777/FormAPI/libFormAPI
+      - src: NurAzliYT/Form-API/Form-API
         version: ^2.1.1
 ```
