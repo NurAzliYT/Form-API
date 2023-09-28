@@ -2,10 +2,10 @@
 
 declare(strict_types = 1);
 
-namespace jojoe77777\FormAPI;
+namespace NurAzliYT\Form-API;
 
 use pocketmine\plugin\PluginBase;
 
-class FormAPI extends PluginBase{
+class Form-API extends PluginBase{
 
 }
